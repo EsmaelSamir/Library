@@ -12,5 +12,5 @@ The user menu displays the following operations:
 
 After each operation,
 Ask the user if he wants to perform any additional operation
-o If yes, let him choose another operation.
-o If no, exit from the program
+* If yes, let him choose another operation.
+* If no, exit from the program
