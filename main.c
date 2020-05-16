@@ -169,12 +169,6 @@ int main()
                         }
                        // fputs("well.....",fptr);
 
-
-
-
-
-
-
            }
 
         }
